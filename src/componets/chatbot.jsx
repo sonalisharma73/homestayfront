@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import { useLocation } from "react-router-dom";
 import axios from "../axiosConfig";
-import "./Chatbot.css";
+import "./chatbot.css";
 import Navbar from "./Navbar";
 
 function Chatbot() {
