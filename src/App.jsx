@@ -16,7 +16,7 @@ import Booking from "./pages/Booking";
 import Details from "./pages/details";
 import Dashboard from "./pages/Dashboard";
 import Favourite from "./pages/favourite";
-import MyBookings from "./pages/myBookings";
+import MyBookings from "./pages/MyBookings";
 import BookingStatus from "./pages/BookingStatus";
 import Profile from "./pages/Profile";
 import EditProfile from "./pages/Editprofile";
