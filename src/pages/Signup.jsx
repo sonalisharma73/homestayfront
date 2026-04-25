@@ -3,7 +3,7 @@
 
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import axios from "../axiosconfig";
+import axios from "../axiosConfig.js";
 import "./Signup.css";
 import Navbar from "../componets/Navbar";
 
