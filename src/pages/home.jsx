@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 // import axios from "axios";
 import { Link, useNavigate } from "react-router-dom";
 import { FaHome, FaStar } from "react-icons/fa";
-import "./Home.css";
+import "./home.css";
 import Navbar from "../componets/Navbar";
 import axios from "../axiosConfig";
 
