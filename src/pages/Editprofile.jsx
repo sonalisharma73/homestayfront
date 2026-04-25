@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Navbar from "../componets/Navbar";
 import { useNavigate } from "react-router-dom";
-import "./EditProfile.css";
+import "./Editprofile.css";
 import axios from "../axiosConfig";
 
 export default function EditProfile() {
